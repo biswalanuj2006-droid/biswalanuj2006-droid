@@ -1,432 +1,177 @@
-<!-- ========================= -->
-
-<!--        HEADER             -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-# `> whoami`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b1f17,100:0d1117&height=180&section=header&text=ANUJ%20BISWAL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER&descAlignY=60&descSize=18&descColor=39ff88&animation=twinkling" width="100%"/>
 
-### **AI/ML Engineer**
+<br>
 
-**CSE (AI & ML) Student • Machine Learning • Backend • Problem Solving**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=39FF88&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%24+whoami;AI%2FML+Engineer;Machine+Learning+%7C+Data+%7C+Backend;Building+Practical+AI+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="Typing animation" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+with+Python+%7C+ML+%7C+Backend;Learning+every+day%2C+building+every+week;Turning+ideas+into+working+systems;AI%2FML+Engineer+in+progress..." alt="Typing SVG" />
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## `$ cat about_me.txt`
+## 👨‍💻 About Me
+
+I am a **Computer Science student focused on AI/ML Engineering, Machine Learning, Data Analysis, and Backend Development**.
+
+I enjoy turning concepts into working systems — from data preprocessing and ML models to APIs and complete applications.
+
+My goal is to build **reliable, practical, and production-oriented AI systems**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,pytorch,tensorflow,opencv,flask,fastapi,postgres,docker,git,github,linux,vscode&perline=8" />
+
+<br><br>
+
+**Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • PyTorch • TensorFlow • OpenCV • NLP • SQL • PostgreSQL • Flask • FastAPI • Docker • Git • GitHub • Linux • VS Code**
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
 
 ```text
-Name        : Anuj Biswal
-Role        : AI/ML Engineer
-Focus       : Machine Learning + Backend Engineering
-Primary     : Python
-Database    : PostgreSQL
-Currently   : Building projects + strengthening ML fundamentals
-Mindset     : Learn → Build → Break → Debug → Improve
-```
-
-I am a Computer Science student focused on **AI/ML engineering and practical software development**.
-
-I enjoy taking concepts from theory and turning them into working projects — from data preprocessing and machine learning models to backend APIs and complete applications.
-
-My current goal is simple:
-
-> **Become an AI/ML engineer capable of building reliable, production-oriented intelligent systems.**
-
----
-
-## `$ cat philosophy.txt`
-
-```text
-01  Learn the fundamentals.
-02  Build instead of only watching tutorials.
-03  Break things.
-04  Understand why they broke.
-05  Fix them.
-06  Repeat.
-```
-
-I don't want to simply collect technologies.
-
-I want to understand **how and why they work**, and eventually build systems that are useful outside a tutorial environment.
-
----
-
-# `$ ls skills/`
-
-## Programming & Data
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=numpy" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-
-</p>
-
-**Python • NumPy • Pandas • Matplotlib • Seaborn**
-
----
-
-## Machine Learning & AI
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
-
-</p>
-
-**Scikit-learn • PyTorch • TensorFlow • OpenCV • NLP**
-
----
-
-## Backend & Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgresql" />
-
-</p>
-
-**Flask • FastAPI • PostgreSQL • SQL**
-
----
-
-## Tools & Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-
-</p>
-
-**Git • GitHub • Docker • Linux • VS Code**
-
----
-
-# `$ cat learning.txt`
-
-Currently expanding my knowledge toward:
-
-```text
-Machine Learning
-        ↓
 Deep Learning
-        ↓
-Computer Vision
-        ↓
-NLP
-        ↓
+      ↓
+     NLP
+      ↓
+ Transformers
+      ↓
+     LLMs
+      ↓
+      RAG
+      ↓
+  AI Agents
+      ↓
+    MLOps
+
+Exploring / Currently Learning
+
+</div>
+🚀 Featured Projects
+🚦 Traffic Volume Prediction
+
+Machine learning project for predicting traffic volume from historical traffic data.
+
+Focus: Data preprocessing • EDA • Feature engineering • ML models • Model evaluation • Flask backend • Web interface
+
+Stack: Python • Pandas • Scikit-learn • Flask • HTML • CSS • JavaScript
+
+🧠 AuraMind
+
+An emotional-aware conversational AI project focused on psychologically safer interaction.
+
+Focus: NLP • Text classification • Emotion analysis • Sentiment analysis • Machine learning • Conversational interaction • Psychological-safety-oriented design
+
+Non-clinical project: AuraMind is designed as a conversational AI project and does not provide medical diagnosis, treatment, or professional mental-health advice.
+
+🛒 FlaskMarket
+
+Flask-based backend/web application project.
+
+Focus: Python • Flask • Routing • Backend logic • JSON data handling • API concepts
+
+🧮 NumPy Matrix Calculator
+
+CLI numerical-computing project built with NumPy.
+
+Operations: Matrix Addition • Matrix Subtraction • Matrix Multiplication • Transpose • Inverse • Determinant • Eigenvalues
+
+🎵 AI Lyrics / Poetry Generator
+
+AI-assisted creative text-generation project.
+
+Focus: Python • Web development • API integration • AI text generation
+
+📊 GitHub Statistics
+<div align="center"> <a href="https://github.com/biswalanuj2006-droid"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=biswalanuj2006-droid&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" /> </a> <a href="https://github.com/biswalanuj2006-droid"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswalanuj2006-droid&layout=compact&hide_border=true&theme=github_dark&langs_count=8" /> </a> </div>
+📈 Contribution Activity
+<div align="center"> <a href="https://github.com/biswalanuj2006-droid"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph"/> </a> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/biswalanuj2006-droid/biswalanuj2006-droid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /> </div> <!-- SETUP REQUIRED FOR THE CONTRIBUTION SNAKE The SVG above is generated through GitHub Actions. Create: .github/workflows/snake.yml with: name: Generate Snake on: schedule: - cron: "0 0 * * *" workflow_dispatch: jobs: generate: runs-on: ubuntu-latest steps: - uses: Platane/snk@v3 with: github_user_name: ${{ github.repository_owner }} outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - uses: crazy-max/ghaction-github-pages@v4 with: build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} BUILD_DIR: dist -->
+💻 Coding Profiles
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+📜 Certifications
+Certification	Issuer	Year	Certificate
+Certification Name	Issuer	Year	View Certificate
+Certification Name	Issuer	Year	View Certificate
+🎯 Learning Roadmap
+<div align="center">
+Python
+  ↓
+Mathematics & Statistics
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+Computer Vision / NLP
+  ↓
 Transformers
-        ↓
+  ↓
 LLMs
-        ↓
+  ↓
 RAG
-        ↓
+  ↓
 AI Agents
-        ↓
-MLOps / Production AI
-```
-
-> Technologies in this section represent my learning direction, not claims of professional-level expertise.
-
----
-
-# `$ ls projects/`
-
-## 🚦 Traffic Volume Prediction
-
-**Machine Learning • Data Analysis • Flask • Web Application**
-
-A machine-learning project focused on predicting traffic volume from historical traffic data.
-
-**Focus:**
-
-* Data preprocessing
-* Exploratory data analysis
-* Feature engineering
-* Machine learning models
-* Model evaluation
-* Flask backend
-* Web-based prediction interface
-
----
-
-## 🧠 AuraMind
-
-**Conversational AI • NLP • Machine Learning**
-
-An emotional-aware conversational AI project designed around psychologically safer interaction.
-
-**Focus:**
-
-* NLP
-* Text classification
-* Sentiment/emotion analysis
-* Machine learning
-* Conversational interaction
-* Psychological-safety-oriented design
-
-> Designed as a non-clinical project, not as a replacement for professional mental-health care.
-
----
-
-## 🛒 FlaskMarket
-
-**Python • Flask • Backend Development**
-
-A beginner-to-intermediate backend project created to understand how web applications work beyond isolated Python scripts.
-
-**Focus:**
-
-* Flask
-* Routing
-* Backend logic
-* JSON-based data handling
-* API concepts
-* Application structure
-
----
-
-## 🧮 NumPy Matrix Calculator
-
-**Python • NumPy • Mathematics**
-
-A CLI-based matrix calculator created to strengthen understanding of numerical computing and linear algebra using NumPy.
-
-**Operations include:**
-
-* Matrix addition
-* Matrix subtraction
-* Matrix multiplication
-* Transpose
-* Inverse
-* Determinant
-* Eigenvalues
-
----
-
-## 🎵 AI Lyrics / Poetry Generator
-
-**Python • Web Development • AI**
-
-An experimental project exploring AI-assisted creative text generation through a web interface.
-
-**Focus:**
-
-* Python
-* Web application development
-* API integration
-* Prompt-based generation
-* Creative text generation
-
----
-
-# `$ git stats`
-
+  ↓
+MLOps / Deployment
+</div>
+🎯 Engineering Goals
+Build stronger machine-learning systems
+Improve DSA and problem-solving
+Develop production-oriented backend skills
+Build and deploy practical AI applications
+Learn modern AI/LLM technologies
+Gain real-world engineering experience
+📄 Resume
+<div align="center"> <a href="YOUR_RESUME_URL"> <img src="https://img.shields.io/badge/VIEW%20RESUME-39FF88?style=for-the-badge&logo=readme&logoColor=0d1117" alt="View Resume"/> </a> </div>
+🔗 Connect With Me
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=biswalanuj2006-droid&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswalanuj2006-droid&layout=compact&hide_border=true" height="170" />
 
-</div>
 
----
 
-# `$ git activity`
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&hide_border=true&area=true" width="95%" />
 
-</div>
 
----
 
-# `$ cat coding_profiles.txt`
 
-I use coding platforms to improve problem-solving and strengthen my understanding of algorithms and programming.
 
-| Platform      | Profile          |
-| ------------- | ---------------- |
-| LeetCode      | [Add Profile](#) |
-| CodeChef      | [Add Profile](#) |
-| Codeforces    | [Add Profile](#) |
-| GeeksForGeeks | [Add Profile](#) |
-| Kaggle        | [Add Profile](#) |
 
-> Replace the placeholder links with your actual profiles.
-
----
-
-# `$ ls certifications/`
-
-### Certifications & Learning
-
-This section is intentionally kept separate from projects so that completed credentials can be distinguished from self-learning.
-
-```text
-[ Add completed certification ]
-
-[ Add completed certification ]
-
-[ Add completed certification ]
-```
-
-Only completed and verifiable certifications should be added here.
-
----
-
-# `$ cat roadmap.txt`
-
-```text
-                    AI / ML ENGINEERING
-
-                           │
-                           ▼
-                    Python + DSA
-                           │
-                           ▼
-                 Mathematics + Statistics
-                           │
-                           ▼
-                   Machine Learning
-                           │
-                           ▼
-                    Deep Learning
-                           │
-             ┌─────────────┴─────────────┐
-             ▼                           ▼
-      Computer Vision                   NLP
-             │                           │
-             └─────────────┬─────────────┘
-                           ▼
-                     Transformers
-                           │
-                           ▼
-                         LLMs
-                           │
-                           ▼
-                         RAG
-                           │
-                           ▼
-                       AI Agents
-                           │
-                           ▼
-                    MLOps / Deployment
-```
-
-The objective isn't to learn everything at once.
-
-The objective is to build a strong engineering foundation and progressively move toward **production-grade AI systems**.
-
----
-
-# `$ cat current_focus.txt`
-
-```text
-[+] Machine Learning
-[+] Python
-[+] SQL
-[+] Data Analysis
-[+] Backend Development
-[+] Problem Solving
-[+] Git & GitHub
-
-[>] Deep Learning
-[>] NLP
-[>] Advanced AI Systems
-[>] MLOps
-```
-
----
-
-# `$ cat goals.txt`
-
-### Short Term
-
-* Strengthen Python and SQL
-* Build more complete ML projects
-* Improve DSA/problem solving
-* Become comfortable with backend development
-* Build a stronger GitHub portfolio
-
-### Long Term
-
-* Become a strong AI/ML engineer
-* Build production-oriented ML systems
-* Work with modern AI technologies
-* Gain real-world engineering experience
-* Build systems that solve meaningful problems
-
----
-
-# `$ echo $CONTACT`
-
-<div align="center">
-
-### Let's Connect
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="YOUR_KAGGLE_URL">
-<img src="https://img.shields.io/badge/Kaggle-Profile-000000?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-Profile-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&label=PROFILE%20VIEWS&color=39ff88&style=flat-square" alt="Profile views"/>
 
----
+<br><br>
 
-# `$ cat resume.txt`
-
-<div align="center">
-
-### Interested in my background?
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       Learn. Build. Debug. Improve.          ║
-║                                              ║
-║       One project at a time.                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### `> exit 0`
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b1f17,100:0d1117&height=100&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Debug%20%E2%80%A2%20Improve&fontSize=18&fontColor=39ff88&animation=twinkling" width="100%"/> </div> ```
