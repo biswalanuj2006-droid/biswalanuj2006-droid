@@ -1,323 +1,551 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f16,100:39ff88&height=220&section=header&text=ANUJ%20BISWAL&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Animated header"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&repeat=true&width=850&height=110&lines=%24+whoami;AI%2FML+Engineer;Machine+Learning+%7C+Data+%7C+Backend;Building+Practical+AI+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="Animated typing text"/>
-</a>
+<img src="./assets/anime_banner.gif" width="100%" alt="ANUJ BISWAL Anime Inspired Animated Banner">
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&duration=1800&pause=500&color=39FF88&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=%24+whoami;ANUJ+BI SWAL;AI%2FML+ENGINEER;MACHINE+LEARNING+%7C+DATA+%7C+BACKEND;BUILDING+PRACTICAL+AI+SYSTEMS;LEARN+%E2%80%A2+BUILD+%E2%80%A2+DEBUG+%E2%80%A2+IMPROVE" alt="Animated Typing Header">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&label=PROFILE%20VIEWS&color=39ff88&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&style=for-the-badge&color=39ff88&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/biswalanuj2006-droid?style=for-the-badge&logo=github&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/biswalanuj2006-droid?style=for-the-badge&logo=github&label=TOTAL%20STARS">
+<img src="https://img.shields.io/github/commit-activity/y/biswalanuj2006-droid?style=for-the-badge&logo=github&label=COMMITS">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I am a Computer Science student focused on **AI/ML Engineering, Machine Learning, Data Analysis, and Backend Development**.
+# ⚔️ ANUJ BISWAL
 
-I enjoy turning concepts into working systems — from **data preprocessing and ML models to APIs and complete applications**.
+### AI / ML ENGINEER IN PROGRESS
 
-My goal is to build **reliable, practical, and production-oriented AI systems**.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=1500&pause=400&color=39FF88&center=true&vCenter=true&repeat=true&width=950&height=60&lines=Turning+ideas+into+working+systems.;Learning+theory+behind+the+tools.;Building+projects+from+scratch.;Debugging+until+the+system+works.;One+project+at+a+time." alt="Animated Engineering Motto">
+
+</div>
 
 ---
 
-## ⚡ Engineering Mindset
+# 🧠 ABOUT ME
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                        SYSTEM PROFILE                       ║
+╠══════════════════════════════════════════════════════════════╣
+║ NAME        : ANUJ BISWAL                                   ║
+║ ROLE        : AI / ML ENGINEER IN PROGRESS                   ║
+║ DOMAIN      : ARTIFICIAL INTELLIGENCE                       ║
+║              MACHINE LEARNING                               ║
+║              DATA ANALYSIS                                  ║
+║              BACKEND DEVELOPMENT                            ║
+║                                                              ║
+║ CURRENTLY   : LEARNING                                      ║
+║              BUILDING                                      ║
+║              DEBUGGING                                      ║
+║              IMPROVING                                     ║
+║                                                              ║
+║ PRINCIPLE   : UNDERSTAND BEFORE USING                       ║
+║                                                              ║
+║ STATUS      : BUILDING THE FUTURE                          ║
+╚══════════════════════════════════════════════════════════════╝
+````
+
+I am focused on becoming a strong **AI/ML Engineer** by learning the mathematics, algorithms, libraries and engineering practices behind intelligent systems.
+
+My goal is not to simply copy code or collect technologies.
+
+My goal is to:
+
+* Understand how systems work.
+* Build projects from scratch.
+* Learn from errors.
+* Improve code quality.
+* Develop strong problem-solving ability.
+* Convert theoretical knowledge into practical applications.
+* Build useful AI/ML systems.
 
 <div align="center">
 
-`LEARN` → `BUILD` → `DEBUG` → `IMPROVE` → `REPEAT`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1400&pause=500&color=39FF88&center=true&vCenter=true&repeat=true&width=850&height=55&lines=UNDERSTAND+THE+PROBLEM.;WRITE+THE+CODE.;TEST+THE+SYSTEM.;FIX+THE+ERROR.;IMPROVE+THE+RESULT." alt="Animated Development Cycle">
+
+</div>
+
+---
+
+# ⚡ ENGINEERING MINDSET
+
+<div align="center">
+
+```text
+                         ┌───────────────┐
+                         │     LEARN     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     TEST      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     DEBUG     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     SHIP      │
+                         └───────────────┘
+```
+
+</div>
+
+<div align="center">
+
+| 🔍 UNDERSTAND | 🧪 EXPERIMENT | 🛠️ BUILD | 🐛 DEBUG | 🚀 IMPROVE |
+| :-----------: | :-----------: | :-------: | :------: | :--------: |
+|     Theory    |      Data     |  Projects |  Errors  |   Systems  |
+
+</div>
+
+---
+
+# 🧰 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,flask,fastapi,postgres,docker,git,github,linux,vscode,html,css,js&perline=9" alt="Complete Technology Stack">
 
 <br><br>
 
-> **Build systems, not just notebooks.**
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243">
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458">
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=39FF88">
+<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39FF88">
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=39FF88">
+<img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-0d1117?style=for-the-badge&logo=python&logoColor=39FF88">
+<img src="https://img.shields.io/badge/Joblib-0d1117?style=for-the-badge&logo=python&logoColor=39FF88">
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<!-- ONE continuous technology wall — intentionally no separate categories. -->
+# 🔥 CURRENTLY LEARNING
 
 <div align="center">
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" title="Python"/></a>
-<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" title="NumPy"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" title="Pandas"/></a>
-<a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" title="Matplotlib"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="48" alt="Seaborn" title="Seaborn"/></a>
-<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" alt="Scikit-learn" title="Scikit-learn"/></a>
-<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" title="TensorFlow"/></a>
-<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="OpenCV" title="OpenCV"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask" title="Flask"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI" title="FastAPI"/></a>
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" title="PostgreSQL"/></a>
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" title="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" title="Git"/></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" title="GitHub"/></a>
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" title="Linux"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" title="VS Code"/></a>
-
-<br>
-
-<sub>
-Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • PyTorch • TensorFlow • OpenCV • NLP • SQL • PostgreSQL • Flask • FastAPI • Docker • Git • GitHub • Linux • VS Code
-</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1600&pause=450&color=39FF88&center=true&vCenter=true&repeat=true&width=950&height=65&lines=MACHINE+LEARNING;MODEL+EVALUATION;FEATURE+ENGINEERING;STATISTICS;LINEAR+ALGEBRA;FLASK+%2B+FASTAPI;POSTGRESQL;DEEP+LEARNING+FOUNDATIONS;BUILDING+REAL+PROJECTS" alt="Currently Learning Animation">
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+# 📚 LEARNING AREAS
 
 <div align="center">
 
-**Deep Learning** → **NLP** → **Transformers** → **LLMs** → **RAG** → **AI Agents** → **MLOps**
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Learning+deeply;Building+consistently;Improving+every+day" alt="Learning animation"/>
+| AREA                | CURRENT FOCUS                                       |
+| :------------------ | :-------------------------------------------------- |
+| 🐍 Python           | Clean code, functions, OOP, modules, error handling |
+| 🔢 Mathematics      | Linear algebra, probability, statistics, calculus   |
+| 📊 Data Analysis    | NumPy, Pandas, Matplotlib, Seaborn                  |
+| 🤖 Machine Learning | Regression, classification, clustering, evaluation  |
+| 🧠 Deep Learning    | Neural networks, backpropagation, optimization      |
+| 🌐 Backend          | Flask, FastAPI, REST APIs, databases                |
+| 🗄️ Databases       | SQL, PostgreSQL, constraints, joins, queries        |
+| 🧩 Problem Solving  | DSA, algorithms, LeetCode, debugging                |
+| 🚀 Deployment       | Docker, APIs, model serving, MLOps                  |
+| 🧪 Projects         | Practical systems using real-world datasets         |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🚦 Traffic Volume Prediction
-
-Machine-learning project for predicting traffic volume from historical traffic data.
-
-**Focus:** Data preprocessing • EDA • Feature engineering • ML models • Evaluation • Flask backend • Web interface
-
-**Stack:** Python • Pandas • Scikit-learn • Flask • HTML • CSS • JavaScript
-
-<br>
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=050505)](YOUR_TRAFFIC_PROJECT_URL)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 AuraMind
-
-Emotional-aware conversational AI project focused on psychologically safer interaction.
-
-**Focus:** NLP • Text classification • Emotion analysis • Sentiment analysis • ML • Conversational interaction
-
-> Non-clinical project. It does not provide medical diagnosis, treatment, or professional mental-health advice.
-
-<br>
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=050505)](YOUR_AURAMIND_PROJECT_URL)
-
-</td>
+<th>PROJECT</th>
+<th>TECHNOLOGY</th>
+<th>DESCRIPTION</th>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 FlaskMarket
-
-Flask-based backend/web application project.
-
-**Focus:** Python • Flask • Routing • Backend logic • JSON data handling • API concepts
-
-<br>
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=050505)](YOUR_FLASKMARKET_PROJECT_URL)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧮 NumPy Matrix Calculator
-
-CLI numerical-computing project using NumPy.
-
-**Operations:** Addition • Subtraction • Matrix Multiplication • Transpose • Inverse • Determinant • Eigenvalues
-
-<br>
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=050505)](YOUR_MATRIX_PROJECT_URL)
-
-</td>
+<td>🚦 <b>Traffic Volume Prediction</b></td>
+<td>Python, Pandas, Scikit-learn, Flask</td>
+<td>Predicts traffic volume using real-world traffic data and machine learning models.</td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td>🧠 <b>AuraMind</b></td>
+<td>Python, NLP, Scikit-learn</td>
+<td>Emotional-awareness conversational AI project with psychological-safety framing.</td>
+</tr>
 
-### 🎵 AI Lyrics / Poetry Generator
+<tr>
+<td>🛒 <b>FlaskMarket</b></td>
+<td>Python, Flask, JSON, PostgreSQL</td>
+<td>Backend marketplace project created to practise routing, APIs and data storage.</td>
+</tr>
 
-AI-assisted creative text-generation project.
+<tr>
+<td>🔢 <b>NumPy Matrix Calculator</b></td>
+<td>Python, NumPy</td>
+<td>CLI matrix calculator supporting addition, subtraction, multiplication, transpose, inverse, determinant and eigenvalues.</td>
+</tr>
 
-**Focus:** Python • Web development • API integration • AI text generation
+<tr>
+<td>🎵 <b>AI Lyrics / Poetry Generator</b></td>
+<td>HTML, CSS, JavaScript, Python</td>
+<td>Creative text-generation project with a simple web interface.</td>
+</tr>
 
-<br>
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-39FF88?style=for-the-badge&logo=github&logoColor=050505)](YOUR_LYRICS_PROJECT_URL)
-
-</td>
-
-<td width="50%" valign="top">
-
-### `+` Building More
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat
-```
-
-</td>
+<tr>
+<td>🔬 <b>More Projects</b></td>
+<td>AI, ML, Backend</td>
+<td>More projects are being designed, built and improved.</td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Snapshot
+# 🧪 PROJECT DEVELOPMENT CYCLE
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/biswalanuj2006-droid?style=for-the-badge&label=FOLLOWERS&color=39ff88)](https://github.com/biswalanuj2006-droid?tab=followers)
-[![Repositories](https://img.shields.io/badge/PUBLIC%20REPOS-27-39ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/biswalanuj2006-droid?style=for-the-badge&label=STARS&color=39ff88)](https://github.com/biswalanuj2006-droid?tab=stars)
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  01  CHOOSE A PROBLEM                                     │
+│              ↓                                             │
+│  02  UNDERSTAND THE DATA                                  │
+│              ↓                                             │
+│  03  BUILD A BASELINE                                     │
+│              ↓                                             │
+│  04  TRAIN THE MODEL                                      │
+│              ↓                                             │
+│  05  EVALUATE THE RESULT                                  │
+│              ↓                                             │
+│  06  DEBUG THE WEAKNESSES                                 │
+│              ↓                                             │
+│  07  BUILD AN API                                         │
+│              ↓                                             │
+│  08  CONNECT THE FRONTEND                                 │
+│              ↓                                             │
+│  09  DOCUMENT THE PROJECT                                 │
+│              ↓                                             │
+│  10  DEPLOY AND IMPROVE                                   │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GITHUB SNAPSHOT
+
+<div align="center">
+
+<img src="https://img.shields.io/github/repos/biswalanuj2006-droid?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES">
+<img src="https://img.shields.io/github/followers/biswalanuj2006-droid?style=for-the-badge&logo=github&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/biswalanuj2006-droid?style=for-the-badge&logo=github&label=STARS">
+<img src="https://img.shields.io/github/commit-activity/y/biswalanuj2006-droid?style=for-the-badge&logo=github&label=COMMIT%20ACTIVITY">
 
 <br><br>
 
-<!--
-The old dynamic stats cards were intentionally removed.
-The public github-readme-stats Vercel instance is documented as best-effort and can
-rate-limit or go down. Broken cards look worse than clean GitHub-native badges.
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biswalanuj2006-droid&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" width="85%" alt="GitHub Streak Statistics">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity Graph"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/biswalanuj2006-droid/biswalanuj2006-droid/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution Snake"/>
-
-<br>
-
-<sub>Animated contribution snake is generated automatically by the GitHub Action included in this package.</sub>
+<img src="https://raw.githubusercontent.com/biswalanuj2006-droid/biswalanuj2006-droid/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=biswalanuj2006-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="96%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=biswalanuj2006-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="GitHub Trophies">
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+# 💻 CODING PROFILES
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_URL)
-[![CodeChef](https://img.shields.io/badge/CodeChef-050505?style=for-the-badge&logo=codechef&logoColor=5B4638)](YOUR_CODECHEF_URL)
-[![Codeforces](https://img.shields.io/badge/Codeforces-050505?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](YOUR_CODEFORCES_URL)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-050505?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](YOUR_GFG_URL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-050505?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](YOUR_KAGGLE_URL)
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+</a>
 
-</div>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=D0A05A">
+</a>
 
----
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB">
+</a>
 
-## 📜 Certifications
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=00C853">
+</a>
 
-| Certification | Issuer | Year | Certificate |
-|:---|:---|:---:|:---:|
-| Certification Name | Issuer | Year | [View Certificate](CERTIFICATE_URL) |
-| Certification Name | Issuer | Year | [View Certificate](CERTIFICATE_URL) |
-
----
-
-## 🎯 Learning Roadmap
-
-<div align="center">
-
-`Python` → `Mathematics & Statistics` → `Machine Learning` → `Deep Learning` → `Computer Vision / NLP` → `Transformers` → `LLMs` → `RAG` → `AI Agents` → `MLOps / Deployment`
-
-</div>
-
----
-
-## 🎯 Engineering Goals
-
-<div align="center">
-
-`Machine Learning` • `DSA` • `Backend Engineering` • `AI Applications` • `LLM Technologies` • `MLOps` • `Real-world Engineering`
-
-</div>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/VIEW%20RESUME-39FF88?style=for-the-badge&logo=readme&logoColor=050505" alt="View Resume"/>
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF">
 </a>
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+# 📈 LEARNING ROADMAP
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=39FF88)](YOUR_PORTFOLIO_URL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-050505?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](YOUR_KAGGLE_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_URL)
+```text
+PYTHON
+   ↓
+NUMPY + PANDAS
+   ↓
+MATPLOTLIB + SEABORN
+   ↓
+DATA CLEANING + EXPLORATION
+   ↓
+LINEAR ALGEBRA + PROBABILITY + STATISTICS
+   ↓
+MACHINE LEARNING
+   ↓
+REGRESSION + CLASSIFICATION + CLUSTERING
+   ↓
+MODEL EVALUATION
+   ↓
+FEATURE ENGINEERING
+   ↓
+FLASK + FASTAPI
+   ↓
+SQL + POSTGRESQL
+   ↓
+NEURAL NETWORKS
+   ↓
+DEEP LEARNING
+   ↓
+COMPUTER VISION
+   ↓
+NLP
+   ↓
+TRANSFORMERS
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+AI AGENTS
+   ↓
+DOCKER + MLOps + CLOUD
+```
 
 </div>
 
 ---
 
+# 🎯 ENGINEERING GOALS
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:0b1f16,100:050505&height=130&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=900&color=39FF88&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Thanks+for+visiting;Keep+building;Never+stop+learning" alt="Animated footer text"/>
-</a>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       ENGINEERING GOALS                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ✓ Master Python and problem solving                        ║
+║  ✓ Understand mathematics behind ML                         ║
+║  ✓ Build strong machine learning foundations                ║
+║  ✓ Create real-world AI/ML projects                         ║
+║  ✓ Improve DSA and SQL skills                               ║
+║  ✓ Build reliable backend systems                           ║
+║  ✓ Learn model deployment                                   ║
+║  ✓ Understand deep learning and NLP                         ║
+║  ✓ Build production-ready AI applications                   ║
+║  ✓ Learn MLOps and cloud technologies                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+# 🧩 BUILD PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=21&duration=1300&pause=450&color=39FF88&center=true&vCenter=true&repeat=true&width=950&height=70&lines=DON'T+JUST+WATCH+TUTORIALS.;WRITE+CODE.;DON'T+FEAR+ERRORS.;DEBUG+THEM.;DON'T+STOP+AT+WORKING.;MAKE+IT+BETTER." alt="Build Philosophy Animation">
+
+</div>
+
+```text
+No fake metrics.
+No fake projects.
+No fake skills.
+No copying without understanding.
+
+Build it.
+Understand it.
+Break it.
+Fix it.
+Document it.
+Ship it.
+```
+
+---
+
+# 🔍 WHAT I VALUE
+
+<div align="center">
+
+| PRINCIPLE        | MEANING                                     |
+| :--------------- | :------------------------------------------ |
+| 🧠 Understanding | Know why the code works                     |
+| 🛠️ Practicality | Build useful projects                       |
+| 🐛 Debugging     | Treat errors as feedback                    |
+| 📚 Consistency   | Improve every day                           |
+| 🎯 Discipline    | Keep working without waiting for motivation |
+| 🚀 Curiosity     | Explore how systems work                    |
+| 🧱 Patience      | Build strong foundations                    |
+| 🔥 Execution     | Turn ideas into working software            |
+
+</div>
+
+---
+
+# 🧪 CURRENT PROJECT STATUS
+
+<div align="center">
+
+```text
+[████████████████████░░] LEARNING
+[██████████████████░░░░] BUILDING
+[████████████████░░░░░░] DEBUGGING
+[██████████████░░░░░░░░] DEPLOYING
+[████████████░░░░░░░░░░] MASTERING
+```
+
+</div>
+
+---
+
+# 📌 GITHUB PRINCIPLES
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  CODE SHOULD BE UNDERSTANDABLE                             │
+│  PROJECTS SHOULD BE PRACTICAL                              │
+│  METRICS SHOULD BE HONEST                                 │
+│  SKILLS SHOULD BE EARNED                                  │
+│  ERRORS SHOULD BE STUDIED                                 │
+│  DOCUMENTATION SHOULD BE CLEAR                            │
+│                                                            │
+│  LEARN → BUILD → TEST → DEBUG → SHIP                      │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📫 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/biswalanuj2006-droid">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=1500&pause=500&color=39FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Let's+build+something+interesting.;AI+%2B+Engineering+%2B+Curiosity.;The+next+project+will+be+better.;Keep+learning.+Keep+building." alt="Connect Animation">
+
+</div>
+
+---
+
+# 🌌 FINAL MESSAGE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              BUILD SOMETHING WORTH REMEMBERING              ║
+║                                                              ║
+║              THE JOURNEY IS STILL BEGINNING                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="./assets/anime_footer.gif" width="100%" alt="Animated Anime Inspired Footer">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:0b1f16,100:050505&height=150&section=footer&animation=twinkling">
+
+### `> SYSTEM STATUS: STILL BUILDING_`
+
+</div>
+```
