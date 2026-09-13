@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="./assets/anime_banner.gif" width="100%" alt="ANUJ BISWAL Anime Inspired Animated Banner">
