@@ -1,8 +1,9 @@
+
 <div align="center">
 
 # ⚡ ANUJ BISWAL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=850&lines=AI%2FML+ENGINEER+IN+PROGRESS;BUILDING+INTELLIGENT+SYSTEMS;DATA+%E2%86%92+MODEL+%E2%86%92+API+%E2%86%92+PRODUCT;LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+IMPROVE" alt="Animated Introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=AI%2FML+ENGINEER+IN+PROGRESS;BUILDING+INTELLIGENT+SYSTEMS;DATA+%E2%86%92+MODEL+%E2%86%92+API+%E2%86%92+PRODUCT;LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+IMPROVE" alt="Animated Introduction">
 
 <br>
 
@@ -14,7 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub-biswalanuj2006--droid-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/anuj-biswal-ab9b5a37a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -44,40 +45,39 @@ I enjoy understanding concepts deeply, implementing them, and turning them into 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="45" height="45" alt="Python">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="45" height="45" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="45" height="45" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css.svg" width="45" height="45" alt="CSS">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bootstrap.svg" width="45" height="45" alt="Bootstrap">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/flask.svg" width="45" height="45" alt="Flask">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/django.svg" width="45" height="45" alt="Django">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/fastapi.svg" width="45" height="45" alt="FastAPI">
+<!-- CORE DEVELOPMENT -->
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,flask,django,fastapi,postgres,mysql,sqlite,docker,git,github,linux,vscode,postman&perline=9" alt="Core Development Stack">
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/numpy.svg" width="45" height="45" alt="NumPy">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pandas.svg" width="45" height="45" alt="Pandas">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/scikitlearn.svg" width="45" height="45" alt="Scikit-Learn">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jupyter.svg" width="45" height="45" alt="Jupyter Notebook">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/matplotlib.svg" width="45" height="45" alt="Matplotlib">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/seaborn.svg" width="45" height="45" alt="Seaborn">
+<!-- AI / DATA -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/postgresql.svg" width="45" height="45" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="45" height="45" alt="MySQL">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="45" height="45" alt="SQLite">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apachekafka.svg" width="45" height="45" alt="Apache Kafka">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/n8n.svg" width="45" height="45" alt="n8n">
+<!-- SYSTEMS -->
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 
-<br><br>
+</div>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="45" height="45" alt="Docker">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="45" height="45" alt="Git">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="45" height="45" alt="GitHub">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" width="45" height="45" alt="Linux">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="45" height="45" alt="VS Code">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/postman.svg" width="45" height="45" alt="Postman">
+<br>
+
+<div align="center">
+
+`Python` `JavaScript` `HTML` `CSS` `Bootstrap` `Flask` `Django` `FastAPI`
+
+`NumPy` `Pandas` `Scikit-Learn` `Jupyter Notebook` `Matplotlib` `Seaborn`
+
+`PostgreSQL` `MySQL` `SQLite` `Apache Kafka` `n8n`
+
+`Docker` `Git` `GitHub` `Linux` `VS Code` `Postman`
 
 </div>
 
@@ -93,25 +93,37 @@ I enjoy understanding concepts deeply, implementing them, and turning them into 
 
 ### 📐 Mathematics
 
-`Linear Algebra` • `Vectors` • `Matrices` • `Matrix Multiplication` • `Eigenvalues` • `Eigenvectors` • `SVD` • `PCA`
+`Linear Algebra` • `Vectors` • `Matrices` • `Matrix Multiplication`
 
-`Probability` • `Statistics` • `Distributions` • `Mean` • `Variance` • `Standard Deviation` • `Correlation` • `Covariance` • `Optimization`
+`Eigenvalues` • `Eigenvectors` • `SVD` • `PCA`
+
+`Probability` • `Statistics` • `Distributions` • `Optimization`
+
+`Correlation` • `Covariance` • `Mean` • `Variance` • `Standard Deviation`
 
 ### 📊 Machine Learning
 
-`Linear Regression` • `Logistic Regression` • `KNN` • `Decision Trees` • `Random Forest`
+`Linear Regression` • `Logistic Regression` • `KNN`
 
-`SVM` • `Naive Bayes` • `K-Means` • `Ensemble Learning` • `PCA`
+`Decision Trees` • `Random Forest` • `SVM` • `Naive Bayes`
 
-`Feature Engineering` • `Cross Validation` • `Hyperparameter Tuning` • `Model Evaluation`
+`K-Means` • `Ensemble Learning` • `PCA`
 
-### 📈 Evaluation
+`Feature Engineering` • `Cross Validation` • `Hyperparameter Tuning`
 
-**Regression:** `MAE` • `MSE` • `RMSE` • `R²`
+### 📈 Model Evaluation
 
-**Classification:** `Accuracy` • `Precision` • `Recall` • `F1` • `ROC-AUC`
+**Regression**
 
-**Clustering:** `Inertia` • `Silhouette Score`
+`MAE` • `MSE` • `RMSE` • `R²`
+
+**Classification**
+
+`Accuracy` • `Precision` • `Recall` • `F1` • `ROC-AUC`
+
+**Clustering**
+
+`Inertia` • `Silhouette Score`
 
 ---
 
@@ -119,7 +131,7 @@ I enjoy understanding concepts deeply, implementing them, and turning them into 
 
 ## 🚦 Traffic Volume Prediction
 
-Machine learning system for predicting traffic volume from real-world traffic data.
+Machine learning system for predicting traffic volume using real-world traffic data.
 
 **Stack**
 
@@ -141,7 +153,7 @@ Emotional-aware conversational AI project focused on responsible and psychologic
 
 **Focus**
 
-`NLP` `TF-IDF` `Scikit-Learn` `Classification` `Sentiment` `Emotion`
+`NLP` • `TF-IDF` • `Scikit-Learn` • `Classification` • `Sentiment` • `Emotion`
 
 **Pipeline**
 
@@ -165,7 +177,9 @@ CLI numerical computing project for strengthening linear algebra and NumPy funda
 
 **Operations**
 
-`Addition` • `Subtraction` • `Multiplication` • `Transpose` • `Inverse` • `Determinant` • `Eigenvalues`
+`Addition` • `Subtraction` • `Multiplication` • `Transpose`
+
+`Inverse` • `Determinant` • `Eigenvalues`
 
 ---
 
@@ -179,21 +193,21 @@ CLI numerical computing project for strengthening linear algebra and NumPy funda
 
 ```text
 MATHEMATICS
-      ↓
+     ↓
 NUMPY + PANDAS
-      ↓
+     ↓
 VISUALIZATION
-      ↓
+     ↓
 MACHINE LEARNING
-      ↓
-BACKEND
-      ↓
+     ↓
+BACKEND ENGINEERING
+     ↓
 DEEP LEARNING
-      ↓
+     ↓
 NLP + TRANSFORMERS
-      ↓
+     ↓
 LLMs + RAG
-      ↓
+     ↓
 AI AGENTS
-      ↓
+     ↓
 MLOps + CLOUD
