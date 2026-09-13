@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:07140d,70:10251a,100:050505&height=210&section=header&text=ANUJ%20BISWAL&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20ENGINEER%20%7C%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=17&descColor=39ff88&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f16,100:39ff88&height=220&section=header&text=ANUJ%20BISWAL&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Animated header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3600&pause=1000&color=39FF88&center=true&vCenter=true&multiline=true&width=850&height=125&lines=%24+whoami;AI%2FML+Engineer;Machine+Learning+%7C+Data+%7C+Backend;Building+Practical+AI+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&repeat=true&width=850&height=110&lines=%24+whoami;AI%2FML+Engineer;Machine+Learning+%7C+Data+%7C+Backend;Building+Practical+AI+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="Animated typing text"/>
 </a>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/biswalanuj2006-droid)
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&label=PROFILE%20VIEWS&color=39ff88&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&label=PROFILE%20VIEWS&color=39ff88&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -30,34 +30,43 @@ My goal is to build **reliable, practical, and production-oriented AI systems**.
 
 ---
 
-## 🛠️ Tech Stack
-
-<!--
-IMPORTANT:
-All technologies are intentionally kept inside ONE visual block.
-There are NO separate AI/ML, Backend, Database, Tools, or Programming sections.
-The icons below are one continuous technology wall.
--->
+## ⚡ Engineering Mindset
 
 <div align="center">
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python" alt="Python"/></a>
-<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy" alt="NumPy"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas" alt="Pandas"/></a>
-<a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" title="Matplotlib" alt="Matplotlib"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="48" title="Seaborn" alt="Seaborn"/></a>
-<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Scikit-learn" alt="Scikit-learn"/></a>
-<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" title="PyTorch" alt="PyTorch"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" title="TensorFlow" alt="TensorFlow"/></a>
-<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" title="OpenCV" alt="OpenCV"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" title="Flask" alt="Flask"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" title="FastAPI" alt="FastAPI"/></a>
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL" alt="PostgreSQL"/></a>
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker" alt="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub" alt="GitHub"/></a>
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux" alt="Linux"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code" alt="VS Code"/></a>
+`LEARN` → `BUILD` → `DEBUG` → `IMPROVE` → `REPEAT`
+
+<br><br>
+
+> **Build systems, not just notebooks.**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- ONE continuous technology wall — intentionally no separate categories. -->
+
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" title="Python"/></a>
+<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" title="NumPy"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" title="Pandas"/></a>
+<a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" title="Matplotlib"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="48" alt="Seaborn" title="Seaborn"/></a>
+<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" alt="Scikit-learn" title="Scikit-learn"/></a>
+<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="OpenCV" title="OpenCV"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask" title="Flask"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI" title="FastAPI"/></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" title="PostgreSQL"/></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" title="Docker"/></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" title="Git"/></a>
+<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" title="GitHub"/></a>
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" title="Linux"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" title="VS Code"/></a>
 
 <br>
 
@@ -75,9 +84,9 @@ Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • PyTo
 
 **Deep Learning** → **NLP** → **Transformers** → **LLMs** → **RAG** → **AI Agents** → **MLOps**
 
-<br>
+<br><br>
 
-<sub>Exploring / Currently Learning</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Learning+deeply;Building+consistently;Improving+every+day" alt="Learning animation"/>
 
 </div>
 
@@ -93,7 +102,7 @@ Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • PyTo
 
 Machine-learning project for predicting traffic volume from historical traffic data.
 
-**Focus:** Data preprocessing • EDA • Feature engineering • ML models • Model evaluation • Flask backend • Web interface
+**Focus:** Data preprocessing • EDA • Feature engineering • ML models • Evaluation • Flask backend • Web interface
 
 **Stack:** Python • Pandas • Scikit-learn • Flask • HTML • CSS • JavaScript
 
@@ -109,7 +118,7 @@ Machine-learning project for predicting traffic volume from historical traffic d
 
 Emotional-aware conversational AI project focused on psychologically safer interaction.
 
-**Focus:** NLP • Text classification • Emotion analysis • Sentiment analysis • Machine learning • Conversational interaction • Psychological-safety-oriented design
+**Focus:** NLP • Text classification • Emotion analysis • Sentiment analysis • ML • Conversational interaction
 
 > Non-clinical project. It does not provide medical diagnosis, treatment, or professional mental-health advice.
 
@@ -169,10 +178,16 @@ AI-assisted creative text-generation project.
 
 ### `+` Building More
 
-Continuously strengthening fundamentals and building progressively larger AI/ML systems.
-
 ```text
-Learn → Build → Debug → Improve
+Learn
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat
 ```
 
 </td>
@@ -181,29 +196,23 @@ Learn → Build → Debug → Improve
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<a href="https://github.com/biswalanuj2006-droid">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=biswalanuj2006-droid&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-&nbsp;
-<a href="https://github.com/biswalanuj2006-droid">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswalanuj2006-droid&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages"/>
-</a>
+[![Followers](https://img.shields.io/github/followers/biswalanuj2006-droid?style=for-the-badge&label=FOLLOWERS&color=39ff88)](https://github.com/biswalanuj2006-droid?tab=followers)
+[![Repositories](https://img.shields.io/badge/PUBLIC%20REPOS-27-39ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/biswalanuj2006-droid?style=for-the-badge&label=STARS&color=39ff88)](https://github.com/biswalanuj2006-droid?tab=stars)
 
-</div>
+<br><br>
 
----
+<!--
+The old dynamic stats cards were intentionally removed.
+The public github-readme-stats Vercel instance is documented as best-effort and can
+rate-limit or go down. Broken cards look worse than clean GitHub-native badges.
+-->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/biswalanuj2006-droid">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -215,38 +224,21 @@ Learn → Build → Debug → Improve
 
 <img src="https://raw.githubusercontent.com/biswalanuj2006-droid/biswalanuj2006-droid/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution Snake"/>
 
+<br>
+
+<sub>Animated contribution snake is generated automatically by the GitHub Action included in this package.</sub>
+
 </div>
 
-<!--
-SNAKE SETUP
-Create: .github/workflows/snake.yml
+---
 
-name: Generate Contribution Snake
+## 🏆 GitHub Trophies
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<img src="https://github-profile-trophy.vercel.app/?username=biswalanuj2006-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="96%" alt="GitHub Trophies"/>
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
--->
+</div>
 
 ---
 
@@ -310,12 +302,11 @@ jobs:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/biswalanuj2006-droid)
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biswalanuj2006-droid)
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=39FF88)](YOUR_PORTFOLIO_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-050505?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](YOUR_KAGGLE_URL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E4405F)](YOUR_INSTAGRAM_URL)
 
 </div>
 
@@ -323,19 +314,10 @@ jobs:
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   >_ SYSTEM STATUS                               │
-│                                                  │
-│   ROLE       : AI/ML ENGINEER                    │
-│   FOCUS      : AI • ML • DATA • BACKEND         │
-│   MODE       : LEARN • BUILD • DEBUG             │
-│   STATUS     : ALWAYS IMPROVING                  │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:0b1f16,100:050505&height=130&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:07140d,70:10251a,100:050505&height=125&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Debug%20%E2%80%A2%20Improve&fontSize=19&fontColor=39ff88&animation=twinkling" width="100%"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=900&color=39FF88&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Thanks+for+visiting;Keep+building;Never+stop+learning" alt="Animated footer text"/>
+</a>
 
 </div>
