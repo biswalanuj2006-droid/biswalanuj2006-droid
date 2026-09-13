@@ -108,31 +108,59 @@ Then improve it.
 <h2 align="center">⚡ TECH STACK</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="42" height="42" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" height="42" alt="Bootstrap"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="42" height="42" alt="Flask"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/django/092E20" width="42" height="42" alt="Django"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="42" height="42" alt="SQLite"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/>
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-Learn"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter Notebook"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42" height="42" alt="Matplotlib"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="42" height="42" alt="Seaborn"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="42" height="42" alt="Apache Kafka"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="42" height="42" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" height="42" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"/>
+</p>
+
 </div>
 
 ---
