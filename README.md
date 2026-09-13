@@ -1,350 +1,519 @@
+<!-- ========================================================= -->
+<!--                    ANUJ BISWAL | README                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:020617,55:003b2f,100:00e6a8&text=ANUJ%20BISWAL&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20IN%20PROGRESS&descSize=14&descAlignY=63&descColor=00ffb0&animation=twinkling" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&lines=ANUJ+BISWAL;AI%2FML+ENGINEER+IN+PROGRESS;BUILDING+INTELLIGENT+SYSTEMS;LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+IMPROVE" alt="Typing Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1800&pause=700&color=00FFB0&center=true&vCenter=true&width=800&height=25&lines=MACHINE+LEARNING+%E2%80%A2+DATA+%E2%80%A2+BACKEND+%E2%80%A2+AI+SYSTEMS">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=AI%20%2F%20ML%20ENGINEERING&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient" width="100%" alt="Animated Header"/>
 
 <br>
 
 <a href="https://github.com/biswalanuj2006-droid">
-<img src="https://img.shields.io/github/followers/biswalanuj2006-droid?style=flat-square&label=FOLLOWERS&color=00e6a8&labelColor=020617">
+<img src="https://img.shields.io/badge/GitHub-biswalanuj2006--droid-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/biswalanuj2006-droid?tab=repositories">
-<img src="https://img.shields.io/github/stars/biswalanuj2006-droid?style=flat-square&label=STARS&color=00e6a8&labelColor=020617">
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&style=flat-square&label=PROFILE+VIEWS&color=00e6a8&labelColor=020617">
-
-</div>
-
-## 🧠 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1500&pause=500&color=00FFB0&center=true&vCenter=true&width=700&height=24&lines=BUILDING+%7C+LEARNING+%7C+SOLVING+%7C+IMPROVING">
-
-</div>
-
-I'm an **AI/ML engineering student** focused on building practical systems with:
-
-**Python • Machine Learning • Data Analysis • Backend Development • SQL • AI Systems**
-
-I prefer understanding **why something works**, not simply copying a library or tutorial.
-
-> **Data → Understand → Model → Build → Test → Improve**
-
----
-
-## ⚡ Engineering Mindset
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1100&pause=400&color=00FFB0&center=true&vCenter=true&width=850&height=24&lines=PROBLEM+%E2%86%92+UNDERSTAND+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEBUG+%E2%86%92+IMPROVE">
-
-</div>
-
-**Understand before implementing.**  
-**Measure before optimizing.**  
-**Debug before blaming the tool.**  
-**Build before claiming expertise.**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/python/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/java/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/javascript/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/html5/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/css3/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/bootstrap/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/flask/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/fastapi/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/django/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/numpy/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/pandas/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/scikitlearn/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/jupyter/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/matplotlib/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/seaborn/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/apachekafka/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/n8n/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/opencv/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/postgresql/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/mysql/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/sqlite/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/docker/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/git/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/github/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/linux/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/visualstudiocode/00FFB0" height="42">
-<img src="https://cdn.simpleicons.org/postman/00FFB0" height="42">
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/NumPy-020617?style=flat-square&logo=numpy&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Scikit--Learn-020617?style=flat-square&logo=scikit-learn&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Jupyter_Notebook-020617?style=flat-square&logo=jupyter&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Matplotlib-020617?style=flat-square&logo=python&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Seaborn-020617?style=flat-square&logo=python&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/Kafka-020617?style=flat-square&logo=apachekafka&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/n8n-020617?style=flat-square&logo=n8n&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/HTML5-020617?style=flat-square&logo=html5&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/CSS3-020617?style=flat-square&logo=css3&logoColor=00FFB0">
-
-</div>
-
----
-
-## 🤖 AI / ML Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1200&pause=450&color=00FFB0&center=true&vCenter=true&width=950&height=24&lines=MATHEMATICS+%E2%86%92+STATISTICS+%E2%86%92+DATA+%E2%86%92+MACHINE+LEARNING+%E2%86%92+DEEP+LEARNING+%E2%86%92+NLP">
-
-</div>
-
-**Machine Learning**
-
-Regression • Classification • Clustering • Ensemble Learning • Dimensionality Reduction • Model Evaluation
-
-**Data**
-
-NumPy • Pandas • Data Cleaning • EDA • Feature Engineering • Visualization
-
-**Deep Learning**
-
-ANN • Backpropagation • CNN • RNN • LSTM • Model Optimization
-
-**NLP / Generative AI**
-
-Text Processing • TF-IDF • Embeddings • Transformers • LLMs • RAG • AI Agents
-
----
-
-## 📚 Current Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1000&pause=350&color=00FFB0&center=true&vCenter=true&width=900&height=24&lines=MACHINE+LEARNING+%7C+SQL+%7C+DSA+%7C+FLASK+%7C+FASTAPI+%7C+BACKEND+SYSTEMS">
-
-</div>
-
-Currently strengthening:
-
-- 🧮 Mathematics & Statistics for ML
-- 📊 NumPy, Pandas & Data Visualization
-- 🤖 Machine Learning with Scikit-Learn
-- 🗄️ SQL & PostgreSQL
-- 🧩 DSA & Problem Solving
-- 🌐 Flask & FastAPI
-- 🔄 Kafka & Data Pipelines
-- ⚙️ n8n Automation
-- 🐳 Docker & Deployment
-
----
-
-## 🧭 AI/ML Roadmap
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=800&pause=300&color=FFFFFF&center=true&vCenter=true&width=950&height=24&lines=MATH+%E2%86%92+STATISTICS+%E2%86%92+NUMPY+%E2%86%92+PANDAS+%E2%86%92+ML+%E2%86%92+DL+%E2%86%92+NLP+%E2%86%92+TRANSFORMERS+%E2%86%92+LLMs+%E2%86%92+RAG+%E2%86%92+AGENTS">
-
-</div>
-
-**Foundation**
-
-Mathematics → Probability → Statistics → Linear Algebra → Calculus
-
-**Data**
-
-NumPy → Pandas → Matplotlib → Seaborn → Feature Engineering
-
-**Machine Learning**
-
-Regression → Classification → Trees → Ensembles → Clustering → PCA → Evaluation
-
-**Deep Learning**
-
-Neural Networks → Backpropagation → CNN → RNN → LSTM
-
-**Modern AI**
-
-NLP → Attention → Transformers → LLMs → Embeddings → RAG → Agents
-
-**Engineering**
-
-FastAPI → Docker → Kafka → MLflow → MLOps → Cloud
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/biswalanuj2006-droid">
-<img src="https://img.shields.io/badge/🚦%20TRAFFIC_VOLUME_PREDICTION-020617?style=for-the-badge&logo=github&logoColor=00FFB0">
+<a href="https://www.linkedin.com/in/anuj-biswal-ab9b5a37a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/biswalanuj2006-droid">
-<img src="https://img.shields.io/badge/🧠%20AURAMIND-020617?style=for-the-badge&logo=github&logoColor=00FFB0">
-</a>
-
-<a href="https://github.com/biswalanuj2006-droid">
-<img src="https://img.shields.io/badge/🎵%20AI_LYRICS_GENERATOR-020617?style=for-the-badge&logo=github&logoColor=00FFB0">
-</a>
+<img src="https://komarev.com/ghpvc/?username=biswalanuj2006-droid&label=PROFILE%20VIEWS&color=00f5a0&style=for-the-badge" />
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ ENGINEERING MODE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=00F5A0&center=true&vCenter=true&width=780&lines=Problem+%E2%86%92+Understand+%E2%86%92+Design+%E2%86%92+Build;Data+%E2%86%92+Model+%E2%86%92+API+%E2%86%92+Product;Measure+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Engineering Animation"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **I don't want to just use AI. I want to understand it, build it, deploy it, and engineer systems around it.**
+
+</div>
+
+---
+
+## 🧠 ABOUT ME
+
+I'm **Anuj Biswal**, a Computer Science student focused on becoming a strong **AI / ML Engineer**.
+
+My current direction is:
+
+**Python → Mathematics → Statistics → NumPy → Pandas → Visualization → Machine Learning → AI Systems**
+
+I enjoy turning concepts into working systems instead of stopping at tutorials.
+
+- 🎯 Focus: **AI / ML Engineering**
+- 🧠 Core language: **Python**
+- 📊 Data: **NumPy • Pandas • Matplotlib • Seaborn**
+- 🤖 ML: **Scikit-Learn**
+- 🌐 Backend: **Flask • FastAPI • Django**
+- 🗄️ Databases: **PostgreSQL • MySQL • SQLite**
+- 🔄 Automation: **n8n**
+- 📡 Data streaming: **Apache Kafka**
+- 🧪 Experimentation: **Jupyter Notebook**
+- 🧩 Problem solving: **DSA • SQL • Algorithms**
+- 🚀 Goal: **Build production-oriented AI systems**
+
+---
+
+## 🧬 MY ENGINEERING LOOP
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=600&color=00F5A0&center=true&vCenter=true&width=800&lines=01+UNDERSTAND;02+LEARN;03+BUILD;04+TEST;05+DEBUG;06+MEASURE;07+IMPROVE;08+SHIP" alt="Engineering Loop"/>
+
+</div>
+
+<br>
+
+**Understand the problem first.**
+
+Then learn the required concept.
+
+Then build something real.
+
+Then test it.
+
+Then break it.
+
+Then debug it.
+
+Then measure the result.
+
+Then improve it.
+
+---
+
+## 🛠️ TECH STACK
+
+<div align="center">
+
+<!-- ONE CONTINUOUS TECH STACK -->
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,flask,django,fastapi,numpy,pandas,matplotlib,seaborn,sklearn,jupyter,postgres,mysql,sqlite,kafka,n8n,docker,git,github,linux,vscode,postman&perline=13" alt="Tech Stack"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Expertise%20in%20Progress-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Data%20Computing-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kafka-Streaming-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Frontend-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</div>
+
+---
+
+## 🤖 AI / ML FOCUS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=MATH+%E2%86%92+STATISTICS+%E2%86%92+DATA+%E2%86%92+ML;REGRESSION+%E2%80%A2+CLASSIFICATION+%E2%80%A2+CLUSTERING;FEATURE+ENGINEERING+%E2%80%A2+MODEL+EVALUATION;ENSEMBLES+%E2%80%A2+DIMENSIONALITY+REDUCTION;ML+%E2%86%92+DEEP+LEARNING+%E2%86%92+NLP+%E2%86%92+LLMs" alt="AI ML Animation"/>
+
+</div>
+
+### 📐 Mathematics
+
+- Linear Algebra
+- Vectors and Matrices
+- Matrix Multiplication
+- Eigenvalues and Eigenvectors
+- SVD
+- PCA
+- Probability
+- Statistics
+- Distributions
+- Mean, Variance and Standard Deviation
+- Correlation and Covariance
+- Optimization
+
+### 📊 Machine Learning
+
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors
+- Decision Trees
+- Random Forest
+- Ensemble Learning
+- Support Vector Machines
+- Naive Bayes
+- K-Means
+- PCA
+- Feature Engineering
+- Cross Validation
+- Hyperparameter Tuning
+- Model Evaluation
+
+### 📈 Evaluation
+
+**Regression**
+
+`MAE • MSE • RMSE • R²`
+
+**Classification**
+
+`Accuracy • Precision • Recall • F1 • ROC-AUC`
+
+**Clustering**
+
+`Inertia • Silhouette Score`
+
+---
+
+## 📚 CURRENT LEARNING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=650&color=00F5A0&center=true&vCenter=true&width=850&lines=NUMPY+%E2%9C%93;PANDAS+%E2%9C%93;VISUALIZATION+%E2%86%92+MATPLOTLIB+%2B+SEABORN;MACHINE+LEARNING+%E2%86%92+SCIKIT--LEARN;BACKEND+%E2%86%92+FLASK+%2B+FASTAPI;DATA+SYSTEMS+%E2%86%92+SQL+%2B+KAFKA;AUTOMATION+%E2%86%92+n8n" alt="Learning Animation"/>
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
 
 ### 🚦 Traffic Volume Prediction
 
-Machine Learning project focused on predicting traffic volume from real-world traffic data.
+Machine Learning system for predicting traffic volume from real-world traffic data.
 
-**Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Flask • HTML • CSS • JavaScript
+**Stack**
+
+`Python • Pandas • NumPy • Matplotlib • Scikit-Learn • Flask • HTML • CSS • JavaScript`
+
+**Models**
+
+`Decision Tree • Random Forest`
+
+**Engineering**
+
+`Data Cleaning → EDA → Feature Engineering → Training → Evaluation → Flask API → Web Interface`
+
+---
 
 ### 🧠 AuraMind
 
-Conversational AI project focused on emotional-aware interaction and psychologically safer conversational experiences.
+An emotional-aware conversational AI project designed around psychological safety and responsible AI interaction.
 
-**Stack:** Python • NLP • Scikit-Learn • TF-IDF • Machine Learning • Flask
+**Focus**
 
-### 🎵 AI Lyrics / Poetry Generator
+`NLP • Text Processing • TF-IDF • Classification • Sentiment • Emotion • Stress Language`
 
-AI-assisted creative text generation application with a web interface and backend architecture.
+**Engineering**
 
-**Stack:** Python • Flask • HTML • CSS • JavaScript • API Integration
+`Dataset → Preprocessing → Feature Extraction → Model → Inference → Conversational Interface`
 
 ---
 
-## 🔬 How I Build Projects
+### ✍️ AI Lyrics / Poetry Generator
+
+A web-based creative AI project combining frontend development, Python and model APIs.
+
+**Stack**
+
+`HTML • CSS • JavaScript • Bootstrap • Python • API Integration`
+
+---
+
+### 🧮 NumPy Matrix Calculator
+
+A command-line mathematical tool built to strengthen numerical computing fundamentals.
+
+**Operations**
+
+`Addition • Subtraction • Multiplication • Transpose • Inverse • Determinant • Eigenvalues`
+
+---
+
+## 🔥 PROJECT PIPELINE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=850&pause=300&color=00FFB0&center=true&vCenter=true&width=950&height=24&lines=IDEA+%E2%86%92+REQUIREMENTS+%E2%86%92+DATA+%E2%86%92+MODEL+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+TEST+%E2%86%92+DEPLOY">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=600&color=00F5A0&center=true&vCenter=true&width=850&lines=IDEA+%E2%86%92+DATA+%E2%86%92+EXPERIMENT+%E2%86%92+MODEL;MODEL+%E2%86%92+API+%E2%86%92+FRONTEND+%E2%86%92+PRODUCT;PRODUCT+%E2%86%92+TEST+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" alt="Project Pipeline"/>
 
 </div>
 
-**01 — Problem**
-
-Define what actually needs to be solved.
-
-**02 — Data**
-
-Collect → clean → explore → visualize → prepare.
-
-**03 — Model**
-
-Train → validate → evaluate → improve.
-
-**04 — Engineering**
-
-Turn the model into something usable through APIs and applications.
-
-**05 — Testing**
-
-Find failures, edge cases and performance bottlenecks.
-
-**06 — Improvement**
-
-Measure → debug → optimize → repeat.
-
 ---
 
-## 🧩 Problem Solving
+## 💻 DEVELOPMENT
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-020617?style=for-the-badge&logo=leetcode&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=00FFB0">
-<img src="https://img.shields.io/badge/ALGORITHMS-020617?style=for-the-badge&logoColor=00FFB0">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=600&color=00F5A0&center=true&vCenter=true&width=820&lines=Python+%7C+SQL+%7C+JavaScript;Flask+%7C+FastAPI+%7C+Django;NumPy+%7C+Pandas+%7C+Scikit--Learn;HTML+%7C+CSS+%7C+Bootstrap;Git+%7C+GitHub+%7C+Docker;Kafka+%7C+n8n+%7C+PostgreSQL" alt="Development Stack"/>
+
+</div>
+
+---
+
+## 🧩 WHAT I BUILD
+
+🔹 **Data Systems**
+
+Data ingestion → cleaning → analysis → visualization
+
+🔹 **Machine Learning Systems**
+
+Dataset → preprocessing → features → model → evaluation
+
+🔹 **AI Applications**
+
+Model → inference → backend → interface
+
+🔹 **Automation Systems**
+
+Trigger → workflow → transformation → action
+
+🔹 **Backend Systems**
+
+API → business logic → database → response
+
+---
+
+## 📊 GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=biswalanuj2006-droid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswalanuj2006-droid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" height="165" alt="Top Languages"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=900&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&height=24&lines=READ+%E2%86%92+THINK+%E2%86%92+SOLVE+%E2%86%92+OPTIMIZE+%E2%86%92+REPEAT">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biswalanuj2006-droid&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" alt="GitHub Streak"/>
 
 </div>
 
-Currently practicing:
-
-**Arrays • Strings • Sorting • Searching • Two Pointers • Sliding Window • SQL Joins • Aggregations • Subqueries • Algorithms**
-
 ---
 
-## 📈 Engineering Growth
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEARNING-020617?style=for-the-badge&labelColor=020617&color=00e6a8">
-<img src="https://img.shields.io/badge/BUILDING-020617?style=for-the-badge&labelColor=020617&color=00e6a8">
-<img src="https://img.shields.io/badge/DEBUGGING-020617?style=for-the-badge&labelColor=020617&color=00e6a8">
-<img src="https://img.shields.io/badge/SHIPPING-020617?style=for-the-badge&labelColor=020617&color=00e6a8">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswalanuj2006-droid&bg_color=0D1117&color=FFFFFF&line=00F5A0&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=850&pause=300&color=00FFB0&center=true&vCenter=true&width=900&height=24&lines=KNOWLEDGE+%E2%86%92+PRACTICE+%E2%86%92+PROJECTS+%E2%86%92+EXPERIENCE">
+<img src="https://raw.githubusercontent.com/biswalanuj2006-droid/biswalanuj2006-droid/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🎯 Goals
-
-- Become a strong **AI/ML Engineer**
-- Build production-oriented ML systems
-- Develop strong mathematical and algorithmic foundations
-- Become comfortable with backend engineering
-- Work with real-world data pipelines
-- Build and deploy useful AI applications
-- Develop strong problem-solving ability
-- Keep learning beyond frameworks and trends
-
----
-
-## 🔥 Principles
+## 🏆 PROBLEM SOLVING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=950&pause=350&color=00FFB0&center=true&vCenter=true&width=850&height=24&lines=CONSISTENCY+%3E+MOTIVATION">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1900&pause=650&color=00F5A0&center=true&vCenter=true&width=750&lines=DSA+%E2%80%A2+SQL+%E2%80%A2+ALGORITHMS;EASY+%E2%86%92+MEDIUM+%E2%86%92+HARD;UNDERSTAND+THE+PATTERN+%E2%86%92+IMPLEMENT+%E2%86%92+OPTIMIZE" alt="Problem Solving Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=950&pause=350&color=00FFB0&center=true&vCenter=true&width=850&height=24&lines=UNDERSTANDING+%3E+MEMORIZATION">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=950&pause=350&color=00FFB0&center=true&vCenter=true&width=850&height=24&lines=BUILDING+%3E+WATCHING">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=950&pause=350&color=00FFB0&center=true&vCenter=true&width=850&height=24&lines=PROGRESS+%3E+PERFECTION">
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/SQL-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🗺️ AI ENGINEERING ROADMAP
+
+<div align="center">
+
+### PHASE 01
+**Mathematics + Statistics**
+
+↓  
+
+### PHASE 02
+**NumPy + Pandas + Visualization**
+
+↓
+
+### PHASE 03
+**Machine Learning**
+
+↓
+
+### PHASE 04
+**Deep Learning**
+
+↓
+
+### PHASE 05
+**NLP + Transformers**
+
+↓
+
+### PHASE 06
+**LLMs + RAG**
+
+↓
+
+### PHASE 07
+**Agents + AI Systems**
+
+↓
+
+### PHASE 08
+**FastAPI + Docker + MLOps**
+
+↓
+
+### PHASE 09
+**Cloud + Production AI**
+
+</div>
+
+---
+
+## 🧠 KNOWLEDGE MAP
+
+**DATA**
+
+`NumPy → Pandas → Cleaning → EDA → Visualization → Feature Engineering`
+
+**ML**
+
+`Regression → Classification → Clustering → Ensembles → Evaluation`
+
+**AI**
+
+`Neural Networks → Deep Learning → NLP → Transformers → LLMs`
+
+**SYSTEMS**
+
+`API → Database → Kafka → Automation → Docker → MLOps`
+
+---
+
+## ⚙️ HOW I LEARN
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1700&pause=550&color=00F5A0&center=true&vCenter=true&width=850&lines=THEORY+%2B+MATH;THEORY+%2B+CODE;CODE+%2B+PROJECT;PROJECT+%2B+DEBUGGING;DEBUGGING+%2B+OPTIMIZATION;REPEAT" alt="Learning Loop"/>
+
+</div>
+
+I try to follow a simple rule:
+
+**Don't memorize what you can understand.**
+
+**Don't only understand what you can build.**
+
+**Don't call it finished until you test it.**
+
+---
+
+## 🎯 GOALS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=BUILD+STRONG+AI%2FML+FOUNDATIONS;BECOME+A+PRODUCTION--READY+ENGINEER;BUILD+REAL+AI+SYSTEMS;MASTER+DATA+%2B+ML+%2B+BACKEND;TURN+IDEAS+INTO+DEPLOYED+PRODUCTS" alt="Goals Animation"/>
+
+</div>
+
+### Near Term
+
+- Strengthen Python
+- Master SQL
+- Improve DSA
+- Master NumPy and Pandas
+- Build stronger ML projects
+- Improve backend engineering
+- Learn production workflows
+
+### Long Term
+
+- AI / ML Engineering
+- Deep Learning
+- NLP
+- LLM Systems
+- RAG
+- AI Agents
+- MLOps
+- Cloud AI
+- Production-grade systems
+
+---
+
+## 🧪 ENGINEERING PRINCIPLES
+
+**Understand before using.**
+
+**Measure before optimizing.**
+
+**Debug before blaming the tool.**
+
+**Build before claiming expertise.**
+
+**Keep projects practical.**
+
+**Keep learning continuously.**
+
+---
+
+## 🔭 CURRENT STATUS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1900&pause=600&color=00F5A0&center=true&vCenter=true&width=850&lines=STATUS%3A+BUILDING;MODE%3A+LEARNING;FOCUS%3A+AI%2FML;ENERGY%3A+HIGH;MISSION%3A+BECOME+A+STRONG+ENGINEER" alt="Status Animation"/>
+
+</div>
+
+---
+
+## 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/biswalanuj2006-droid">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00FFB0">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anuj-biswal-ab9b5a37a">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00FFB0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=1200&pause=450&color=00FFB0&center=true&vCenter=true&width=850&height=25&lines=BUILDING+TODAY+%E2%80%A2+LEARNING+EVERY+DAY+%E2%80%A2+ENGINEERING+FOR+TOMORROW">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=KEEP%20BUILDING%20%7C%20KEEP%20LEARNING%20%7C%20KEEP%20SHIPPING&fontSize=22&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="Animated Footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:00e6a8,55:003b2f,100:020617&animation=twinkling" width="100%">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=500&color=00F5A0&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE" alt="Final Animation"/>
 
 </div>
+
+<!-- ========================================================= -->
+<!--                  END OF PROFILE README                    -->
+<!-- ========================================================= -->
