@@ -58,7 +58,12 @@ I enjoy understanding concepts deeply, implementing them, and turning them into 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
-
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
 <br><br>
 
 <!-- SYSTEMS -->
@@ -77,7 +82,7 @@ I enjoy understanding concepts deeply, implementing them, and turning them into 
 
 `PostgreSQL` `MySQL` `SQLite` `Apache Kafka` `n8n`
 
-`Docker` `Git` `GitHub` `Linux` `VS Code` `Postman`
+`Docker` `Git` `GitHub` `Linux` `VS Code` `Postman`, `NUMPY`,`PANDAS`
 
 </div>
 
